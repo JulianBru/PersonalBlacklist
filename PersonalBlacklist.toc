@@ -1,0 +1,27 @@
+## Interface: 90002
+## Title: PersonalBlacklist
+## Author: Xyløns @ Ragnaros US
+## Version: 2.1
+## Notes: 9.0.2 update by Skline
+## eMail: xylonsUS@gmail.com
+## blacklist:
+## banned: 
+## quiters: 
+## afkers: 
+## mythic+: 
+## raid: 
+## guilds: 
+## PBL:
+## PersonalBlacklist:
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: PBL_
+
+locales\enUS.lua
+locales\esMX.lua
+locales\esES.lua
+locales\deDE.lua
+config.lua
+init.lua
+
+libs\libs.xml
