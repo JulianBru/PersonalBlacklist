@@ -1,8 +1,8 @@
-## Interface: 90002
+## Interface: 90105
 ## Title: PersonalBlacklist
 ## Author: Xyløns @ Ragnaros US
 ## Version: 2.1
-## Notes: 9.0.2 update by Skline
+## Notes: 9.0.2 update by Skyline
 ## eMail: xylonsUS@gmail.com
 ## blacklist:
 ## banned: 
