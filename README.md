@@ -22,6 +22,7 @@ List of commands:
 This Blacklist record will allow you to always remember the names of those undesirable players.
  
 Latest Additions:
+
 v3.7
 - New Colors
 - API Changes for 9.2 and future 9.2.5
