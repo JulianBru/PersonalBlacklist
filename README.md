@@ -1,4 +1,4 @@
-Tired of getting in groups (Guilds, Raid, Mythics +) with undesirable people on it ? This is the solution!
+Tired of getting in groups (Guilds, Raid, Mythics +) with undesirable people on it? This is the solution!
  
 The Personal Blacklist or PBL gives you the possibility to store the names of those undesirable players and categorize them.
  
