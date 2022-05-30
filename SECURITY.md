@@ -17,4 +17,19 @@ Following Versions of PBL (PersonalBlacklist) are supported by World of Warcraft
 ## Reporting a Vulnerability
 
 Please send an Email to:
-wowaddons (at) j-labs dot tech with Subject "PersonalBlacklist".
+wowaddons (at) j-labs dot tech with Subject "VUL: PersonalBlacklist".
+
+## Reporting a UI Issue
+
+Please send an Email to:
+wowaddons (at) j-labs dot tech with Subject "UIX: PersonalBlacklist".
+
+## Reporting a Feature Request
+
+Please send an Email to:
+wowaddons (at) j-labs dot tech with Subject "FTR: PersonalBlacklist".
+
+## Reporting a LUA Error
+
+Please send an Email to:
+wowaddons (at) j-labs dot tech with Subject "LUA: PersonalBlacklist".
