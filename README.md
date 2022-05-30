@@ -66,4 +66,4 @@ Coming Soon:
 - New Option to edit an existing ban / reasons & category.
 - Ability to back up your Ban List.
  
-:x: Note: Lists from version 2.2 or behind will not work on v3 and recent versions. :x:
+:x: Note: Lists from version 2.2 or lower will not work on v3 and recent versions. :x:
