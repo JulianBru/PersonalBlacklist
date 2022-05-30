@@ -61,7 +61,7 @@ v3.2
 - New Class Icon added and a new feature to remove people from your list way easier via a new button.
 - New Sort Functionality via list header buttons.
  
-Coming Soon:
+# Coming Soon:
 - New Translations and fixes for spanish translation.
 - New Option to edit an existing ban / reasons & category.
 - Ability to back up your Ban List.
