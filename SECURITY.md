@@ -2,8 +2,7 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Following Versions of PBL (PersonalBlacklist) are supported by World of Warcraft GameClient Version 9.1.5 or higher:
 
 | Version | Supported          |
 | ------- | ------------------ |
