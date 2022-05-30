@@ -1,3 +1,5 @@
+# PersonalBlacklist 
+
 Tired of getting in groups (Guilds, Raid, Mythics +) with undesirable people on it? This is the solution!
  
 The Personal Blacklist or PBL gives you the possibility to store the names of those undesirable players and categorize them.
@@ -20,8 +22,12 @@ List of commands:
 /pbl icon = Show / Hide PBL Minimap Icon
 
 This Blacklist record will allow you to always remember the names of those undesirable players.
+
+# Supported Versions:
+
+Please see https://github.com/JulianBru/PersonalBlacklist/security/policy
  
-Latest Additions:
+# Latest Additions:
 
 v3.7
 - New Colors
