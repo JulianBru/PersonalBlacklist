@@ -9,6 +9,10 @@ Following Versions of PBL (PersonalBlacklist) are supported by World of Warcraft
 | 3.7.x   | :white_check_mark: |
 | 3.6.x   | :white_check_mark: |
 | < 3.5   | :x:                |
+|  2.2.x  | :x:                |
+|  2.1.x  | :x:                |
+|  2.0.x  | :x:                |
+| < 2.0   | :x:                |
 
 ## Reporting a Vulnerability
 
