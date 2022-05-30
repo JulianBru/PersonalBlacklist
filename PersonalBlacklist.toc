@@ -4,7 +4,7 @@
 ## Author: Julsn, Xylons & Heomel
 
 ## Notes: Tired of Quiters / Flamers and undesired people that join your Mythic+,Guild o Raid group?
-## eMail: xylonsUS@gmail.com
+## eMail: wowaddons (at) jlabs dot tech, xylonsUS dot (at) dot gmail.com
 ## blacklist:
 ## banned: 
 ## quiters: 
