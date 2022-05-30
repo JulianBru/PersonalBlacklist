@@ -1,8 +1,9 @@
 ## Interface: 90105
-## Title: PersonalBlacklist
-## Author: Xyløns @ Ragnaros US
-## Version: 2.1
-## Notes: 9.0.2 update by Skyline
+## Version: 3.7
+## Title: Personal Black List
+## Author: Julsn, Xylons & Heomel
+
+## Notes: Tired of Quiters / Flamers and undesired people that join your Mythic+,Guild o Raid group?
 ## eMail: xylonsUS@gmail.com
 ## blacklist:
 ## banned: 
@@ -13,15 +14,16 @@
 ## guilds: 
 ## PBL:
 ## PersonalBlacklist:
-## DefaultState: Enabled
-## LoadOnDemand: 0
-## SavedVariables: PBL_
+## SavedVariables: PBLDB
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
 
 locales\enUS.lua
 locales\esMX.lua
 locales\esES.lua
 locales\deDE.lua
-config.lua
-init.lua
 
-libs\libs.xml
+embeds.xml
+Core.lua
+Config.lua
+Frame.lua

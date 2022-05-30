@@ -41,15 +41,6 @@ L["pblListTab"] = "PBL - List"
 L["removeBtn"] = "Remove"
 L["textFormatTxt"] = "text format: name-realm"
 L["classTxt"] = "Class"
-L["dropDownClassDK"] = "Deathknight"
-L["dropDownClassDH"] = "Demonhunter"
-L["dropDownClassDRUID"] = "Druid"
-L["dropDownClassHUNTER"] = "Hunter"
-L["dropDownClassMAGE"] = "Mage"
-L["dropDownClassMONK"] = "Monk"
-L["dropDownClassPALADIN"] = "Paladin"
-L["dropDownClassPRIEST"] = "Priest"
-L["dropDownClassROGUE"] = "Rogue"
-L["dropDownClassSHAMAN"] = "Shaman"
-L["dropDownClassWARLOCK"] = "Warlock"
-L["dropDownClassWARRIOR"] = "Warrior"
+
+
+
