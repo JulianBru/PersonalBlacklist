@@ -66,6 +66,6 @@ v3.2
 - New Option to edit an existing ban / reasons & category.
 - Ability to back up your Ban List.
  
- # Compatiblity for Addon inGame Database
+ # Compatibility for Addon inGame Database
  
 :x: Lists from version 2.2 or lower will not work on v3 and recent versions. :x:
