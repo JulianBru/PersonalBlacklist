@@ -196,7 +196,7 @@ function PBL:showFrame()
         scorelistWidget = scroll;
 
         -- createHeading receives (name,text)
-        local topHeading = self:createHeading("banControl","Add New Player ( Format Name-Realm )")
+        local topHeading = self:createHeading("banControl","Add New Player (Format: PlayerName-Realm)")
         scroll:AddChild(topHeading)
 
         -- createHeader control (input & dropdowns)
@@ -310,7 +310,7 @@ function PBL:showFrame()
 
         -- createLabel receives (name,text,RelativeWidth,colorR,colorG,colorB,x,y)
         local raid1 = self:createLabel("racreditsInf_id_","Authors / Creators\n",1,1,0.82,0)
-        local raid2 = self:createLabel("creditsInf_","Xyløns & Theomel @ Quel'Thalas US \n\n",1,1,1,1)
+        local raid2 = self:createLabel("creditsInf_","Julsn, Xyløns & Theomel @ Quel'Thalas US \n\n",1,1,1,1)
         local raid3 = self:createLabel("creditsInf_","Translations\n",1,1,0.82,0)
         local raid4 = self:createLabel("creditsInf_","Spanish: Kauto @ Quel'Thalas US\nGerman: SkylineHero @ CurseForge\n\n",1,1,1,1)
         local raid5 = self:createLabel("creditsInf_","Special Thanks!\n",1,1,0.82,0)
@@ -372,7 +372,7 @@ function PBL:showFrame()
 	end)
 
     local frame = AceGUI:Create("Frame")
-    frame:SetTitle("Personal Black List (PBL) V3.6")
+    frame:SetTitle("Personal Black List (PBL)")
     frame:SetCallback("OnClose",
         function(widget) 
             AceGUI:Release(widget)
