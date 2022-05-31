@@ -1,7 +1,7 @@
 ## Interface: 90105
 ## Version: 3.7
 ## Title: Personal Black List
-## Author: Julsn, Xylons & Heomel
+## Author: Julsn, Xylons & Heomel (UI)
 
 ## Notes: Tired of Quiters / Flamers and undesired people that join your Mythic+,Guild o Raid group?
 ## eMail: wowaddons (at) j-labs dot tech, xylonsUS (at) gmail dot com
